@@ -13,7 +13,7 @@ import org.primefaces.event.TabCloseEvent;
 import com.denis.primefaces.domain.Car;
  
 @ManagedBean
-public class AccordianView {
+public class TabbedView {
      
     private List<Car> cars;
  
